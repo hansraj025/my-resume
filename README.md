@@ -1,2 +1,2 @@
 # my-resume
-A simple html website currently
+A website that gets better as my knowledge about web development increases.
